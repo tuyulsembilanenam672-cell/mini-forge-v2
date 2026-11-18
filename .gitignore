@@ -1,0 +1,5 @@
+# Local scratch and editor files. The committed `forge` binary is part
+# of the entry and is intentionally NOT ignored.
+*.log
+*.tmp
+.DS_Store
